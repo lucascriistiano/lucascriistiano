@@ -12,6 +12,9 @@ I'm a Consultant Developer at [ThoughtWorks](https://www.thoughtworks.com). Soft
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascriistiano&&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascriistiano&hide=html,css&langs_count=10&layout=compact" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascriistiano&&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascriistiano&hide=html,css&langs_count=10&layout=compact" />
+</a>

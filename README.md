@@ -1,8 +1,12 @@
 # Hey, I'm Lucas Cristiano!
 
-### Senior Software Engineer & Academic
+### Senior Software Engineer & Researcher
 
-I'm Senior Software Engineer at [iFood](https://www.ifood.com.br) and former Senior Consultant Developer at [Thoughtworks](https://www.thoughtworks.com). Master in Systems and Computing, I'm a quick learner, a fan of open source and love to learn and get involved with new technologies and projects. The technologies I use most are Java, SpringBoot, Kotlin, JavaScript, React, Python, NodeJS, Docker, Kubernetes, applying them in different opportunities to learn something new.
+Hey there! 👋 I'm a Senior Software Engineer rocking it at [iFood](https://www.ifood.com.br) after some awesome times as a Senior Consultant Developer at [Thoughtworks](https://www.thoughtworks.com). With a Master's in Systems and Computing, I'm all about picking up new skills pronto!
+
+I'm a big fan of open source vibes and absolutely love diving into new technologies and projects. You'll often catch me jamming with Java, GoLang, Kotlin, SpringBoot, JavaScript, React, Python, NodeJS, Docker, and Kubernetes. I like to mix and match these tech tools in different scenarios to keep things interesting and always learn something fresh.
+
+Thriving in the fast lane of tech, I'm your go-to person for dynamic environments. Whether it's bringing my skills to the table or exploring the latest and greatest tech trends, count me in! 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-lucascriistiano-black)](https://github.com/lucascriistiano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--cristiano-blue)](https://linkedin.com/in/lucas-cristiano/)

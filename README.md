@@ -17,8 +17,8 @@ Thriving in the fast lane of tech, I'm your go-to person for dynamic environment
 ## GitHub Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascriistiano&&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats-chi-two-90.vercel.app/api?username=lucascriistiano&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascriistiano&hide=html,css&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats-chi-two-90.vercel.app/api/top-langs/?username=lucascriistiano&hide=html,css,scss,yacc,handlebars,qmake,lex,shell,tex&langs_count=10&layout=compact" />
 </a>

@@ -10,7 +10,6 @@ Thriving in the fast lane of tech, I'm your go-to person for dynamic environment
 
 [![GitHub](https://img.shields.io/badge/GitHub-lucascriistiano-black)](https://github.com/lucascriistiano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--cristiano-blue)](https://linkedin.com/in/lucas-cristiano/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-lucascriistiano-orange)](https://stackoverflow.com/users/story/4709250?tab=profile)
 [![Website](https://img.shields.io/badge/Website-lucascriistiano.github.io-green)](https://lucascriistiano.github.io)
 <!-- [![Blog](https://img.shields.io/badge/Blog-blog.lucascristiano.com-yellowgreen)](https://blog.lucascristiano.com) -->
 

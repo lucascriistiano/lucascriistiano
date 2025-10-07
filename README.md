@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer & Researcher
 
-Hey there! 👋 I'm a Staff Software Engineer rocking it at [iFood](https://www.ifood.com.br) after some awesome times as a Senior Consultant Developer at [Thoughtworks](https://www.thoughtworks.com). With a Master's in Systems and Computing, I'm all about picking up new skills pronto!
+Hey there! 👋 I'm a Staff Software Engineer rocking it at [Warmly,](https://www.warmly.ai/) after some awesome times as Staff Software Engineer at [iFood](https://www.ifood.com.br) and Senior Consultant Developer at [Thoughtworks](https://www.thoughtworks.com). With a Master's in Systems and Computing, I'm all about picking up new skills pronto!
 
 I'm a big fan of open source vibes and absolutely love diving into new technologies and projects. You'll often catch me jamming with Java, GoLang, Kotlin, SpringBoot, JavaScript, React, Python, NodeJS, Docker, and Kubernetes. I like to mix and match these tech tools in different scenarios to keep things interesting and always learn something fresh.
 
